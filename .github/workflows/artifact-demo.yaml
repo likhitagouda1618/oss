@@ -16,4 +16,4 @@ jobs:
          uses: actions/upload-artifact@v4
          with:
            name: files
-           path: temp/
+           path: temp\
